@@ -84,11 +84,37 @@ img {
 
 .quote {
     background-color: #E5E7EB;
-    padding: 10px;
+    border-radius: 10px;
+    padding: 20px;
     font-size: 36px;
     color: #1F2937;
     font-weight: 300px;
-    font-style:italic;
     text-align: center;
-    margin: 10px;
 }
+
+.cta {
+    padding: 10px;
+}
+
+.cta-box {
+    background: #3882F6;
+    border-radius: 10px;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    background-color: white;
+    border-radius: 10px;
+    padding: 8px;
+    color: #1F2937;
+    font-weight: bold;
+}
+
+
+
+
+
+
